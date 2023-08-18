@@ -2,7 +2,6 @@
 
 
 ###  The artifact can be found at <https://github.com/sepine/DeepInfer>
-### The copy of the accepted paper can be found at <https://github.com/sepine/DeepInfer/DeepInfer.pdf>
 
 
 # 1. Environment Installation
