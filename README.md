@@ -105,6 +105,7 @@ pip install torch-geometric==2.1.0.post1
 
 # 3. Run the models 
 ## <u>Note: Please modify the number (i.e., batch size) according to your available GPU memory</u>
+## <u>Note: Please empty the 'results' folder before running the scripts (if available)</u>
 ## (1) Parameter Prediction for Solidity
 ```
 bash run_solidity_param.sh 128
